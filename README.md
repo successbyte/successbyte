@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ehsanullahhaidary
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m always learning
+- 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me @ehsan_haidary on twitter
 
 <!---
